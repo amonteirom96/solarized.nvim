@@ -18,7 +18,7 @@ M.base = {
     blue = "#1e6da5",
   },
   dark = {
-    bg = "#182b2c",
+    bg = "#0c2b31",
     fg = "#93a1a1",
     red = "#e87876",
     orange = "#db825d",
@@ -72,7 +72,7 @@ function M.get(variant, opts)
   c.variant = variant
   c.none = "NONE"
 
-  -- Neutral surfaces follow the warm paper / muted green-gray bases.
+  -- Neutral surfaces follow the warm paper / softened blue-green bases.
   local tint = c.fg
   c.surface1 = blend(tint, c.bg, is_light and 0.05 or 0.06)
   c.surface2 = blend(tint, c.bg, is_light and 0.08 or 0.085)
