@@ -2,7 +2,7 @@
 local M = {}
 
 --- Bump to invalidate every user's compiled cache after changing highlights.
-M.version = "1.0.0"
+M.version = "1.0.1"
 
 local cache_dir = vim.fn.stdpath("cache") .. "/solarized"
 local configured = false
