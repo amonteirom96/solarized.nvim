@@ -6,7 +6,7 @@
 </defs>
 <g clip-path="url(#card)">
 <rect width="1280" height="420" fill="#fdf6e3"/>
-<rect width="1280" height="420" fill="#002b36" clip-path="url(#right)"/>
+<rect width="1280" height="420" fill="#182b2c" clip-path="url(#right)"/>
 <g clip-path="url(#left)">
 <text x="640" y="200" text-anchor="middle" font-family="'Inter','SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="112" font-weight="700" letter-spacing="-3" fill="#52676f">solarized</text>
 <text x="640" y="258" text-anchor="middle" font-family="'Inter','SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#52676f" letter-spacing="0.5">solarized · quiet code, red only for errors and deletions</text>
@@ -15,7 +15,7 @@
 <g clip-path="url(#right)">
 <text x="640" y="200" text-anchor="middle" font-family="'Inter','SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="112" font-weight="700" letter-spacing="-3" fill="#93a1a1">solarized</text>
 <text x="640" y="258" text-anchor="middle" font-family="'Inter','SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#93a1a1" letter-spacing="0.5">solarized · quiet code, red only for errors and deletions</text>
-<text x="640" y="372" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="17" fill="#60787c" letter-spacing="4">NEOVIM · GHOSTTY · KITTY · LAZYGIT</text>
+<text x="640" y="372" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="17" fill="#687878" letter-spacing="4">NEOVIM · GHOSTTY · KITTY · LAZYGIT</text>
 </g>
 <circle cx="526" cy="310" r="9" fill="#616f00"/>
 <circle cx="564" cy="310" r="9" fill="#1e6da5"/>

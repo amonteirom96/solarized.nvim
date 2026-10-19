@@ -17,8 +17,8 @@ A personal take on [Solarized](https://github.com/maxmx03/solarized.nvim),
 following the architecture and highlighting rules of
 [onemono.nvim](https://github.com/amonteirom96/onemono.nvim).
 
-The warm light background (`#fdf6e3`) and deep blue-green dark background
-(`#002b36`) come from Solarized. Foregrounds and accents are adjusted for
+The warm light background (`#fdf6e3`) comes from Solarized; the dark background
+(`#182b2c`) softens its blue tint into a muted green-gray. Foregrounds and accents are adjusted for
 readability: all four syntax accents pass WCAG AA (4.5:1) against both the
 background and `surface2`. Comments pass AA against the background.
 

@@ -1,0 +1,4 @@
+WRN 2026-10-19T16:54:01.249 ?.16881    server_start:197: Failed to start server: operation not permitted: /var/folders/69/mtd82phs6hn3kq5kcg6dsbrm0000gn/T/nvim.arthurmonteiro/JWgTLy/nvim.16881.0
+WRN 2026-10-19T16:54:04.921 ?.16891    server_start:197: Failed to start server: operation not permitted: /var/folders/69/mtd82phs6hn3kq5kcg6dsbrm0000gn/T/nvim.arthurmonteiro/z9XgOp/nvim.16891.0
+WRN 2026-10-19T16:54:04.921 ?.16892    server_start:197: Failed to start server: operation not permitted: /var/folders/69/mtd82phs6hn3kq5kcg6dsbrm0000gn/T/nvim.arthurmonteiro/bG4nJz/nvim.16892.0
+WRN 2026-10-19T16:54:04.921 ?.16890    server_start:197: Failed to start server: operation not permitted: /var/folders/69/mtd82phs6hn3kq5kcg6dsbrm0000gn/T/nvim.arthurmonteiro/Q2JZ7f/nvim.16890.0
